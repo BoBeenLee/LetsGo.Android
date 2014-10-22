@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\app\build\pre-dexed\debug\support-v4-19.1.0-f74e06c7f0261dbb7c84f2471079bb94e4a0b470.jar"
+        jar="C:\Users\BoBinLee\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\app\build\pre-dexed\debug\classes-6d3cd318d8f50557d04c0112965c7524c238c2cc.jar"
+        jar="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\build\exploded-aar\com.google.android.gms\play-services\3.1.36\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="7421dcb3ed9db47a59ec618e2398f0df65c2d480"/>
+    <item
+        dex="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\app\build\pre-dexed\debug\classes-98018d04dfe522f0ed891d867eeb5ba889dbc50e.jar"
+        jar="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="G:\dev\Android Studio\workspaces\Network\Network\GoogleMap\app\build\pre-dexed\debug\gson-2.2.4-ebc8d60c5fe414f5ce41edf16891cd3a8ca3c833.jar"
+        jar="C:\Users\BoBinLee\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+
+</pre-dex-items>
